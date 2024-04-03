@@ -1,0 +1,16 @@
+﻿Hello
+how are you
+what time is it
+Wake up
+Stop talking
+Stop Listenning
+Show commands
+Hide commands
+Open yandex
+Close yandex
+Can I please add rooms
+Can I please add a new Customer
+Can I please Check Out
+Can You please open Customer details
+Can i add a new employee
+Go to facebook
